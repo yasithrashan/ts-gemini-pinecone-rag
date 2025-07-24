@@ -9,7 +9,7 @@ A TypeScript-based Retrieval-Augmented Generation (RAG) system that scrapes web 
 *The Pinecone console showing stored content chunks with their similarity scores and metadata from scraped BBC Innovation pages.*
 
 ### System in Action - Terminal Output
-![Terminal Output](docs/pinecone-console.png)
+![Terminal Output](docs/terminal-output.png)
 *The RAG system processing URLs, storing content in Pinecone, and generating AI responses based on the retrieved context.*
 
 ## Features
